@@ -1,0 +1,13 @@
+/*p {
+	color: red;
+}*/
+p.special {
+	color: red;
+}
+p#myid {
+	color: red;
+}
+
+.box p{
+	color: green;
+}

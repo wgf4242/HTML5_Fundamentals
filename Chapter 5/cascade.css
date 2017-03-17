@@ -1,0 +1,19 @@
+h1,h2 {
+	color: blue;
+	font-size: 200%;
+	margin: 0 0 1em 0;
+}
+
+h2 {
+	color: red;
+}
+
+p {
+	font-size: 0.8em;
+	color: #666666;
+}
+
+p.special {
+	font-size: 120%;
+	color: black;
+}

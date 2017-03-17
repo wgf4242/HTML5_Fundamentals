@@ -1,0 +1,15 @@
+body {
+	margin: 40px 100px 40px 100px;
+}
+
+.intro {
+	font-size: 20px;
+	font-weight: bold;
+	font-family: "Calisto MT", Georgia, serif;
+	line-height: 1.2;
+}
+
+.chapter-title {
+	/*letter-spacing: 0.4em;*/
+	word-spacing: 3em;
+}
