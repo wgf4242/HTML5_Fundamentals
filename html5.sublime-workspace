@@ -4,6 +4,14 @@
 		"selected_items":
 		[
 			[
+				"ba",
+				"balloons"
+			],
+			[
+				"fi",
+				"figcaption\tTag"
+			],
+			[
 				"Json",
 				"JSONResponse"
 			],
@@ -188,27 +196,28 @@
 	"buffers":
 	[
 		{
-			"file": "simple.html",
+			"file": "/D/wgf/My Documents/Dropbox/Programming_Note/HTML/HTML5.md",
 			"settings":
 			{
-				"buffer_size": 235,
+				"buffer_size": 2541,
 				"encoding": "UTF-8",
 				"line_ending": "Windows"
 			}
 		},
 		{
-			"file": "/D/wgf/My Documents/Dropbox/Programming_Note/HTML/HTML5.md",
+			"file": "Chapter 7/gradient.css",
 			"settings":
 			{
-				"buffer_size": 98,
+				"buffer_size": 725,
+				"encoding": "UTF-8",
 				"line_ending": "Windows"
 			}
 		},
 		{
-			"file": "README.MD",
+			"file": "Chapter 7/gradient.html",
 			"settings":
 			{
-				"buffer_size": 0,
+				"buffer_size": 3022,
 				"encoding": "UTF-8",
 				"line_ending": "Windows"
 			}
@@ -261,10 +270,66 @@
 	"build_varint": "",
 	"command_palette":
 	{
-		"height": 196.0,
-		"last_filter": "ss html",
+		"height": 150.0,
+		"last_filter": "fbo",
 		"selected_items":
 		[
+			[
+				"fbo",
+				"File: Open In Browser - Production Server"
+			],
+			[
+				"fob",
+				"File: Open In Browser - Production Server"
+			],
+			[
+				"fobr",
+				"File: Open In Browser - Production Server"
+			],
+			[
+				"html",
+				"HTMLPrettify"
+			],
+			[
+				"fobro",
+				"File: Open In Browser - Production Server"
+			],
+			[
+				"open bro",
+				"File: Open In Browser - Production Server"
+			],
+			[
+				"match",
+				"Emmet: Go to Matching Pair"
+			],
+			[
+				"wrap to",
+				"Word Wrap: Toggle"
+			],
+			[
+				"f open br",
+				"File: Open In Browser - Production Server"
+			],
+			[
+				"htmlpre",
+				"HTMLPrettify"
+			],
+			[
+				"h pre",
+				"HTMLPrettify: Set Prettify Preferences"
+			],
+			[
+				"file ope br",
+				"File: Open In Browser - Production Server"
+			],
+			[
+				"wrpato",
+				"Word Wrap: Toggle"
+			],
+			[
+				" fopen br",
+				"File: Open In Browser - Production Server"
+			],
 			[
 				"ss html",
 				"Set Syntax: HTML"
@@ -323,10 +388,6 @@
 			],
 			[
 				"htmlp",
-				"HTMLPrettify"
-			],
-			[
-				"html",
 				"HTMLPrettify"
 			],
 			[
@@ -714,6 +775,65 @@
 	],
 	"file_history":
 	[
+		"/D/wgf/My Documents/GitHub/HTML5_Fundamentals/Chapter 7/multiple-backgrounds.css",
+		"/D/wgf/My Documents/GitHub/HTML5_Fundamentals/Chapter 7/multiple-backgrounds.html",
+		"/D/wgf/My Documents/GitHub/HTML5_Fundamentals/Chapter 7/background-elements.css",
+		"/D/wgf/My Documents/GitHub/HTML5_Fundamentals/Chapter 7/background-elements.html",
+		"/D/wgf/My Documents/GitHub/HTML5_Fundamentals/Chapter 6/background-color.css",
+		"/D/wgf/My Documents/GitHub/HTML5_Fundamentals/Chapter 7/background-image.css",
+		"/D/wgf/My Documents/GitHub/HTML5_Fundamentals/Chapter 7/background-image.html",
+		"/D/wgf/My Documents/GitHub/HTML5_Fundamentals/Chapter 6/background-color.html",
+		"/D/wgf/My Documents/GitHub/HTML5_Fundamentals/Chapter 6/background-image.css",
+		"/D/wgf/My Documents/GitHub/HTML5_Fundamentals/Chapter 6/hover.css",
+		"/D/wgf/My Documents/GitHub/HTML5_Fundamentals/Chapter 3/table.html",
+		"/D/wgf/My Documents/GitHub/HTML5_Fundamentals/Chapter 6/hover.html",
+		"/D/wgf/My Documents/GitHub/HTML5_Fundamentals/Chapter 6/links.css",
+		"/D/wgf/My Documents/GitHub/HTML5_Fundamentals/Chapter 6/links.html",
+		"/D/wgf/My Documents/GitHub/HTML5_Fundamentals/Chapter 6/pseudo.html",
+		"/D/wgf/My Documents/GitHub/HTML5_Fundamentals/Chapter 6/pseudo.css",
+		"/D/wgf/My Documents/GitHub/HTML5_Fundamentals/Chapter 6/font-family.css",
+		"/D/wgf/My Documents/GitHub/HTML5_Fundamentals/Chapter 6/font-family.html",
+		"/E/downloads/20-db-fontfacekit/web fonts/20db_regular_macroman/20db-demo.html",
+		"/D/wgf/My Documents/GitHub/HTML5_Fundamentals/Chapter 6/weight.html",
+		"/D/wgf/My Documents/GitHub/HTML5_Fundamentals/Chapter 6/weight.css",
+		"/D/wgf/My Documents/GitHub/HTML5_Fundamentals/Chapter 5/cascade.html",
+		"/D/wgf/My Documents/GitHub/HTML5_Fundamentals/Chapter 6/size.html",
+		"/D/wgf/My Documents/GitHub/HTML5_Fundamentals/Chapter 6/size.css",
+		"/D/wgf/My Documents/GitHub/HTML5_Fundamentals/Chapter 4/figures.html",
+		"/D/wgf/My Documents/GitHub/HTML5_Fundamentals/Chapter 5/cascade.css",
+		"/D/wgf/My Documents/GitHub/HTML5_Fundamentals/Chapter 6/fonts-intro.html",
+		"/D/wgf/My Documents/GitHub/HTML5_Fundamentals/Chapter 6/fonts-intro.css",
+		"/D/wgf/My Documents/GitHub/HTML5_Fundamentals/Chapter 5/utils.css",
+		"/D/wgf/My Documents/GitHub/HTML5_Fundamentals/Chapter 5/color.css",
+		"/D/wgf/My Documents/GitHub/HTML5_Fundamentals/Chapter 5/color.html",
+		"/D/wgf/My Documents/GitHub/HTML5_Fundamentals/Chapter 4/grouping.html",
+		"/D/wgf/My Documents/GitHub/HTML5_Fundamentals/Chapter 4/grouping.css",
+		"/D/wgf/My Documents/GitHub/HTML5_Fundamentals/Chapter 5/utils.html",
+		"/D/wgf/My Documents/GitHub/HTML5_Fundamentals/Chapter 4/shorthand.css",
+		"/D/wgf/My Documents/GitHub/HTML5_Fundamentals/Chapter 4/selectors.html",
+		"/D/wgf/My Documents/GitHub/HTML5_Fundamentals/Chapter 4/selectors.css",
+		"/D/wgf/My Documents/GitHub/HTML5_Fundamentals/Chapter 4/apply-css.html",
+		"/D/wgf/My Documents/GitHub/HTML5_Fundamentals/Chapter 4/apply-css.css",
+		"/D/wgf/My Documents/GitHub/HTML5_Fundamentals/Chapter 4/article.html",
+		"/D/wgf/My Documents/GitHub/HTML5_Fundamentals/Chapter 3/validation.html",
+		"/D/wgf/My Documents/GitHub/HTML5_Fundamentals/Chapter 4/html4-structure.html",
+		"/D/wgf/My Documents/GitHub/HTML5_Fundamentals/Chapter 4/html5-structure.html",
+		"/D/wgf/My Documents/GitHub/HTML5_Fundamentals/Chapter 4/headers-footers.html",
+		"/D/wgf/My Documents/GitHub/HTML5_Fundamentals/Chapter 4/aside.html",
+		"/D/wgf/My Documents/GitHub/HTML5_Fundamentals/Chapter 4/quotes.html",
+		"/D/wgf/AppData/Roaming/Sublime Text 3/Packages/HTML-CSS-JS Prettify/.jsbeautifyrc",
+		"/D/wgf/My Documents/GitHub/HTML5_Fundamentals/Chapter 3/images.html",
+		"/D/wgf/My Documents/GitHub/HTML5_Fundamentals/Chapter 3/list.html",
+		"/D/wgf/My Documents/GitHub/HTML5_Fundamentals/Chapter 3/difinition-list.html",
+		"/D/wgf/My Documents/GitHub/HTML5_Fundamentals/Chapter 3/nested-lists.html",
+		"/D/wgf/My Documents/GitHub/HTML5_Fundamentals/Chapter 3/sitemap.html",
+		"/D/wgf/My Documents/GitHub/HTML5_Fundamentals/Chapter 3/links.html",
+		"/D/wgf/My Documents/GitHub/HTML5_Fundamentals/Chapter 3/div-and-span.html",
+		"/D/wgf/My Documents/GitHub/HTML5_Fundamentals/simple.html",
+		"/D/wgf/My Documents/GitHub/HTML5_Fundamentals/html5-template.html",
+		"/D/wgf/My Documents/GitHub/HTML5_Fundamentals/README.MD",
+		"/D/wgf/My Documents/GitHub/HTML5_Fundamentals/html5-barebones.html",
+		"/D/wgf/My Documents/GitHub/HTML5_Fundamentals/block-inline.html",
 		"/E/downloads/@Go/work/1.md",
 		"/D/wgf/AppData/Roaming/Sublime Text 3/Packages/OmniMarkupPreviewer/OmniMarkupPreviewer.sublime-settings",
 		"/D/wgf/AppData/Roaming/Sublime Text 3/Packages/MarkdownEditing/Markdown.sublime-settings",
@@ -782,70 +902,11 @@
 		"/E/downloads/@Go/dictionary.txt",
 		"/E/downloads/@Go/dictionary.md",
 		"/E/downloads/del/1.html",
-		"/E/downloads/del/1.js",
-		"/E/downloads/@Go/Python/Coding/WSGI/server.py",
-		"/E/downloads/@Go/Python/Coding/WSGI/hello2.py",
-		"/E/downloads/@Go/Python/Coding/WSGI/run.bta",
-		"/E/downloads/@Go/Python/Coding/WSGI/hello.py",
-		"/D/wgf/AppData/Roaming/Sublime Text 3/Packages/User/Markdown.sublime-settings",
-		"/E/downloads/123/d2486jeb/d-000je/1.txt",
-		"/E/downloads/123/d2486jeb/d-000je/test2.bat",
-		"/E/downloads/123/d2486jeb/d-000je/py2.bat",
-		"/D/wgf/AppData/Roaming/ObviousIdea/resizer5_profiles.ini",
-		"/E/downloads/Light Image Resizer 5.0.3.1/ResizePortable.ini",
-		"/E/downloads/@HDD/Python/note.md",
-		"/E/downloads/Game/PSP/ppsspp.md",
-		"/D/wgf/My Documents/Dropbox/My sync/del",
-		"/E/downloads/steam_criminal22.CT",
-		"/E/downloads/steam_criminal (1).CT",
-		"/E/downloads/RPK_XP_Special Edition201612.md5",
-		"/E/downloads/RPK_XP_Special+Edition201612.md5",
-		"/F/@Go/mirgrate.bat",
-		"/F/@Go/Bookmark_backup.bat",
-		"/E/downloads/you-get-0.4.536-win32-full_视频下载/you-get/you-get.bat",
-		"/E/downloads/Licenses.reg",
-		"/D/wgf/AppData/Roaming/Sublime Text 3/Packages/User/replaceTest.py",
-		"/D/wgf/AppData/Roaming/Sublime Text 3/Packages/User/reptest.py",
-		"/D/wgf/AppData/Roaming/Sublime Text 3/Packages/User/test2.py",
-		"/D/wgf/AppData/Roaming/Sublime Text 3/Packages/sublimeplugin/reptest.py",
-		"/D/Program Files/small/Proxy/Shadowsocks/gui-config.json",
-		"/D/wgf/AppData/Roaming/Sublime Text 3/Packages/sublimeplugin/test2.py",
-		"/E/downloads/GameDVR.reg",
-		"/D/wgf/My Documents/Dropbox/My sync/backup/XboxGameDVR.reg",
-		"/D/Program Files/game/PSP/ppsspp-v0.9.8m-windows-x86/ppsspp/memstick/PSP/Cheats/NPJH50352.ini",
-		"/E/downloads/Register.reg",
-		"/D/wgf/My Documents/QQ五笔用户词库_2016_12_24.txt",
-		"/D/wgf/My Documents/1.txt",
-		"/D/wgf/My Documents/[ 精灵五笔输入法 ]/导出 - 用户词条(2017.1.2)2.txt",
-		"/E/Program Files (x86)/SWD6E/DBF/Item.dbfs",
-		"/E/downloads/Game/[2016.11.21]老游戏/顺序.md",
-		"/E/Swd6/11/ALI213-Swd6.SaveEdit.v1.24.130904/GameData/ItemInfo.dat",
-		"/E/Swd6/11/1.ahk",
-		"/D/Program Files/AutoHotkey/AutoHotKey.ahk",
-		"/D/wgf/My Documents/AutoHotKey.ahk",
-		"/E/downloads/@Go/backup_ime.bat",
-		"/F/@Go/todo.md",
-		"/F/@Go/work.md",
-		"/F/@Go/todo1.md",
-		"/E/share/nubiaApps/123/AndroidManifest.xml",
-		"/D/wgf/My Documents/Dropbox/Archive/.bat/start_normal.bat",
-		"/E/downloads/@Go/backup_sublimeUserFolder.bat",
-		"/E/share/1.txt",
-		"/E/share/11",
-		"/D/wgf/AppData/Roaming/Sublime Text 3/Packages/User/FileHistory_20161225.json",
-		"/D/wgf/AppData/Roaming/Sublime Text 3/Packages/User/FileHistory.json",
-		"/D/wgf/AppData/Roaming/Sublime Text 3/Packages/User/oscrypto-ca-bundle.crt",
-		"/D/wgf/AppData/Roaming/Sublime Text 3/Packages/File History/Default (Windows).sublime-keymap",
-		"/D/wgf/AppData/Roaming/Sublime Text 3/Packages/File History/FileHistory.sublime-settings",
-		"/D/wgf/AppData/Roaming/Sublime Text 3/Packages/User/Default (Windows).sublime-keymap",
-		"/E/share/tasker.txt",
-		"/E/share/README.md",
-		"/E/share/search.txt",
-		"/E/share/Default (Linux).sublime-keymap"
+		"/E/downloads/del/1.js"
 	],
 	"find":
 	{
-		"height": 41.0
+		"height": 38.0
 	},
 	"find_in_files":
 	{
@@ -953,6 +1014,36 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"multiple",
+			"block",
+			"balloons",
+			"1",
+			"strong",
+			"pxxxxx",
+			"section",
+			"weight",
+			"pxxxxx",
+			"figure",
+			"lem",
+			"rgb",
+			"purple",
+			"000",
+			"color",
+			"aside",
+			"div",
+			"p",
+			"section",
+			"div",
+			"</",
+			"div",
+			"nav",
+			"class",
+			"article",
+			"talbe",
+			"img",
+			"ol",
+			"\t<",
+			"first",
 			"read_only",
 			"auto_now_add",
 			"auto_now_add ",
@@ -1050,37 +1141,7 @@
 			"return",
 			"elif",
 			"^\\n",
-			"elif",
-			"print ",
-			"key1",
-			"toc",
-			"elif",
-			"if",
-			"type",
-			"w9",
-			"%%",
-			"entries",
-			"\n    ",
-			"    content = content.replace('    \"local_address\": \"127.0.0.1\",\\n    \"local_port\": 1080,', '')\n    self.view.replace(edit, region, content)\n    \n",
-			"replace",
-			"^([a-z]+) \t(.*)",
-			"^([a-z])+ \t(.*)",
-			"导线相间",
-			"横担相间",
-			"恢复接地",
-			"更换避雷器",
-			"升顶铁",
-			"补销子",
-			"正立瓶",
-			"降.*横担",
-			"焊刀闸",
-			"登杆检查立瓶、",
-			"变台检修、?",
-			"更换铜铝设备线夹、",
-			"变台更换绝缘引线、",
-			"、变台检修",
-			"、更换铜铝设备线夹",
-			"、加装驱鸟器"
+			"elif"
 		],
 		"highlight": true,
 		"in_selection": false,
@@ -1213,54 +1274,59 @@
 			[
 				{
 					"buffer": 0,
-					"file": "simple.html",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 235,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								235,
-								235
-							]
-						],
-						"settings":
-						{
-							"open_with_edit": true,
-							"syntax": "Packages/HTML/HTML.sublime-syntax"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 1,
-					"type": "text"
-				},
-				{
-					"buffer": 1,
 					"file": "/D/wgf/My Documents/Dropbox/Programming_Note/HTML/HTML5.md",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 98,
+						"buffer_size": 2541,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								37,
-								37
+								2457,
+								2457
 							]
 						],
 						"settings":
 						{
+							"is_init_dirty_state": false,
 							"origin_encoding": "ASCII",
-							"syntax": "Packages/MarkdownEditing/Markdown.tmLanguage"
+							"syntax": "Packages/MarkdownEditing/Markdown.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 2995.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "Chapter 7/gradient.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 725,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								588,
+								588
+							]
+						],
+						"settings":
+						{
+							"is_init_dirty_state": false,
+							"origin_encoding": "ASCII",
+							"syntax": "Packages/Djaneiro/Syntaxes/CSS (Django).tmLanguage",
+							"translate_tabs_to_spaces": false
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
@@ -1271,31 +1337,33 @@
 				},
 				{
 					"buffer": 2,
-					"file": "README.MD",
+					"file": "Chapter 7/gradient.html",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 0,
+						"buffer_size": 3022,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								0,
-								0
+								189,
+								189
 							]
 						],
 						"settings":
 						{
-							"open_with_edit": true,
-							"syntax": "Packages/MarkdownEditing/Markdown.tmLanguage"
+							"is_init_dirty_state": false,
+							"origin_encoding": "ASCII",
+							"syntax": "Packages/Djaneiro/Syntaxes/HTML (Django).tmLanguage",
+							"translate_tabs_to_spaces": false
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 2,
+					"stack_index": 1,
 					"type": "text"
 				}
 			]
@@ -1303,7 +1371,7 @@
 	],
 	"incremental_find":
 	{
-		"height": 33.0
+		"height": 30.0
 	},
 	"input":
 	{
@@ -1348,7 +1416,7 @@
 	"project": "html5.sublime-project",
 	"replace":
 	{
-		"height": 62.0
+		"height": 56.0
 	},
 	"save_all_on_build": true,
 	"select_file":
